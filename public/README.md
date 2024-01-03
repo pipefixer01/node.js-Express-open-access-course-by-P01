@@ -1,12 +1,25 @@
-# Ava
+# Play - Free HTML Template for Startup, Apps and SaaS
 
-A landing page template.
+Play is an open-source and free bootstrap 5 based HTML template created by the UIdeck team. It's a part of our new initiative to give back to the community and create some impactful open source projects.
 
-* [Getting started](#getting-started)
+This template is designed and developed in such a way so, that almost anyone can use it for almost any kind of website or landing pages such as SaaS, Startup, Business, Apps, Software and Agency, etc.
 
-## Getting started
-* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
-* Next, use your command line to enter your project directory.
-* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
+Play comes with all essential sections and elements a complete website needs, additionally, we also created some separate pages including blogs, login, 404, and some other essential pages from homepage sections.
 
-You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
+### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components (design)
+
+
+### [🚀 View Demo](https://preview.uideck.com/items/play-bootstrap/)
+
+### [⬇️ Download Now](https://links.uideck.com/play-bootstrap-download)
+
+[![playbootstrap-demo](https://uideck.com/wp-content/uploads/2021/09/play-bootstrap.jpg)](https://preview.uideck.com/items/play-bootstrap/)
+
+
+
+## 📃 License
+Play is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
+
+## 💙 Support
+You can always support this project by [Starring🌟 This Repository](https://github.com/uideck/play-bootstrap) 
+and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
