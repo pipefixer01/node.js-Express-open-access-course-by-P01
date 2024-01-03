@@ -38,21 +38,21 @@
 			text-decoration: none;
 		}
 	} @else if ($type == 'header') {
-		color: color(typography, 2i);
+		color: color(typography, 2);
 		text-transform: uppercase;
 		text-decoration: none;
 
 		&:hover,
 		&:active {
-			color: color(typography, 1i);
+			color: color(typography, 1);
 		}
 	} @else if ($type == 'footer') {
-		color: color(typography, 3);
+		color: color(typography, 2i);
 		text-decoration: none;
 
 		&:hover,
 		&:active {
-			color: color(typography, 2);
+			color: color(typography, 1i);
 			text-decoration: underline;
 		}
 	}
@@ -71,6 +71,7 @@
 	display: block;
 	height: 1px;
 	background: color(bg, 3);
+	background: linear-gradient(to right, rgba(color(bg, 3), .1) 0, rgba(color(bg, 3), .6) 50%, rgba(color(bg, 3), .1) 100%);
 }
 
 @mixin divider($type: false) {
