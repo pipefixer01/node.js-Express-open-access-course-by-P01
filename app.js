@@ -25,7 +25,7 @@ productRouter.route("/:id").get((req, res) => {
     const id = req.params.id;
     res.render("product",{
         product: products[id],
-    });
+    })
 });
 
 app.use("/products", productRouter);
